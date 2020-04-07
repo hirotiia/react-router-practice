@@ -1,6 +1,5 @@
 {
   "name": "project",
-  "homepage": "https://hirotiia.github.io/react-router-practice",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
